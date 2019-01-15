@@ -11,5 +11,6 @@
 * [程序员自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 * [前端规范集合](https://github.com/ecomfe/spec) [整理了多种前端项目开发中的规范手册]
 ### ☕️ java相关
+* [互联网 Java 工程师进阶知识完全扫盲](https://doocs.github.io/advanced-java/#/)
 * [Google Java编程规范中文文档](https://jervyshi.gitbooks.io/google-java-styleguide-zh/content/javadoc/index.html)
 ### ☦️ 数据库相关
