@@ -18,5 +18,5 @@
 ### 🍻 团队协作
 * 版本控制
   * git使用规范
-    *[使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
+    * [使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
 ### ☦️ 数据库相关
