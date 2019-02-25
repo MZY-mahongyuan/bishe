@@ -19,4 +19,5 @@
 #### 版本控制
   * git使用规范
     * [使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
+    * [猴子都能懂得GIT入门](https://backlog.com/git-tutorial/cn/)
 ### ☦️ 数据库相关
