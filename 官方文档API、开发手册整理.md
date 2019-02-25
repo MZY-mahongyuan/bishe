@@ -1,7 +1,7 @@
 ## 📖 开发手册整理
 ### 技术文档写作规范
 * [阮一峰中文技术文档的写作规范](http://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
-### 🎃 javaScript、typeScript、es标准整理
+### 🎃 javaScript、typeScript
 * [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [JavaScript标准参考教程](https://wangdoc.com/javascript/) 
 * [ECMAScript6 入门](http://es6.ruanyifeng.com/#docs/intro) 
