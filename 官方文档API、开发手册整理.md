@@ -26,4 +26,4 @@
     * [通过游戏学习git](https://github.com/Gazler/githug) [一款名为 Githug 的帮助练习 git 操作的游戏]
 ### ☦️ 数据库相关
 #### MySQL
-* [mysql入门教程](https://github.com/jaywcjlove/mysql-tutorial)
+* [mysql入门教程](https://github.com/jaywcjlove/mysql-tutorial) `来自github仓库mysql-tutorial`
