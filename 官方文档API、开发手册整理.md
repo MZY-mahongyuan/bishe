@@ -5,8 +5,9 @@
 * [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [JavaScript标准参考教程](https://wangdoc.com/javascript/) 
 * [ECMAScript6 入门](http://es6.ruanyifeng.com/#docs/intro) 
-* [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html) [阮一峰，前端发展趋势、react技术栈、nodejs应用、前端工程化]
+* [JavaScript 全栈工程师培训教程](http://www.ruanyifeng.com/blog/2016/11/javascript.html) `阮一峰，前端发展趋势、react技术栈、nodejs应用、前端工程化`
 ### 🍔 前端综合
+* [前端精读周刊](https://github.com/dt-fe/weekly)
 * [ESLint：静态代码检查工具](https://cn.eslint.org/) [通过eslint规范代码]
 * [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/index.html) 
 * [程序员自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
