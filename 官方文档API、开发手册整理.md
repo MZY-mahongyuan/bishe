@@ -1,6 +1,7 @@
 ## 📖 开发手册整理
 ### 技术文档写作规范
 * [阮一峰中文技术文档的写作规范](http://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
+* [阮一峰YAML 语言教程](http://www.ruanyifeng.com/blog/2016/07/yaml.html?f=tt)
 ### 🎃 javaScript、typeScript
 * [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
 * [JavaScript标准参考教程](https://wangdoc.com/javascript/) 
