@@ -20,6 +20,7 @@
 * [Google Java编程规范中文文档](https://jervyshi.gitbooks.io/google-java-styleguide-zh/content/javadoc/index.html)
 * [Effective Java 第三版中文版](https://jiapengcai.gitbooks.io/effective-java/content/) `主要介绍Java编程中78条极具实用价值的经验规则`
 ### 🎲 CSS
+* [Airbnb CSS / SASS Style Guide](https://wangzitian0.github.io/2013/10/26/Airbnb-CSS-SASS-Style-Guide/)
 ### 🍻 团队协作
 #### 版本控制
   * git使用规范
