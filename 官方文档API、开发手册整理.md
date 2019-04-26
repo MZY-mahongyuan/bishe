@@ -24,10 +24,9 @@
 * [Airbnb CSS / SASS Style Guide](https://wangzitian0.github.io/2013/10/26/Airbnb-CSS-SASS-Style-Guide/)
 ### 🍻 团队协作
 #### 版本控制
-  * git使用规范
-    * [使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
-    * [猴子都能懂得GIT入门](https://backlog.com/git-tutorial/cn/) `图文并茂的 git 教程`
-    * [通过游戏学习git](https://github.com/Gazler/githug) `一款名为 Githug 的帮助练习 git 操作的游戏`
+* [使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
+* [猴子都能懂得GIT入门](https://backlog.com/git-tutorial/cn/) `图文并茂的 git 教程`
+* [通过游戏学习git](https://github.com/Gazler/githug) `一款名为 Githug 的帮助练习 git 操作的游戏`
 ### ☦️ 数据库相关
 #### MySQL
 * [mysql入门教程](https://github.com/jaywcjlove/mysql-tutorial) `来自github仓库mysql-tutorial`
