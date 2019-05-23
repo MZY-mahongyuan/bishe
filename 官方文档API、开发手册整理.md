@@ -1,4 +1,3 @@
-## 📖 开发手册整理
 ### 🍂 全栈工程师
 * [全栈增长工程师指南](https://github.com/phodal/growth-ebook) `有纸质版`
 ### 🎲 技术文档写作规范
@@ -33,3 +32,5 @@
 ### ☦️ 数据库相关
 #### MySQL
 * [mysql入门教程](https://github.com/jaywcjlove/mysql-tutorial) `来自github仓库mysql-tutorial`
+### 插件文档
+* [mobile scroll英文文档](https://docs.mobiscroll.com/2-17-3/jquery/timer#opt-showOnTap) `因为收费所以资料较少`
