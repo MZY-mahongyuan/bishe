@@ -23,6 +23,9 @@
 * [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide) `一份涵盖大部分Java程序员所需要掌握的核心知识手册`
 * [Google Java编程规范中文文档](https://jervyshi.gitbooks.io/google-java-styleguide-zh/content/javadoc/index.html)
 * [Effective Java 第三版中文版](https://jiapengcai.gitbooks.io/effective-java/content/) `主要介绍Java编程中78条极具实用价值的经验规则`
+### 💃 网络安全
+* [Security Paper](https://www.securitypaper.org/)`SDL是微软提出的一种软件开发安全生命周期管理的一种最佳安全实践，全称为Security Development Lifecycle。`
+
 ### 🎲 CSS
 * [Airbnb CSS / SASS Style Guide](https://wangzitian0.github.io/2013/10/26/Airbnb-CSS-SASS-Style-Guide/)
 ### 🍻 团队协作
