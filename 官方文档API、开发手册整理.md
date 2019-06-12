@@ -1,3 +1,5 @@
+### 前端插件中文文档
+* [axios API 中文文档]http://www.axios-js.com/zh-cn/docs/)
 ### 🍂 全栈工程师
 * [全栈增长工程师指南](https://github.com/phodal/growth-ebook) `有纸质版`
 ### 🎲 技术文档写作规范
