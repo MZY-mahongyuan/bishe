@@ -30,6 +30,7 @@
 
 ### 🎲 CSS
 * [Airbnb CSS / SASS Style Guide](https://wangzitian0.github.io/2013/10/26/Airbnb-CSS-SASS-Style-Guide/)
+* [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/zh-cn/introduce?v=1&id=%e5%85%b3%e4%ba%8e-you-need-to-know-css)
 ### 🍻 团队协作
 #### 版本控制
 * [使用git和github进行协同开发流程](https://github.com/livoras/blog/issues/7)
