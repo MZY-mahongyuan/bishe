@@ -4,6 +4,7 @@
 * [Day.js](https://github.com/iamkun/dayjs) `Day.js 是一个轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样.s`
 * [reveal.js](https://github.com/hakimel/reveal.js#online-editor) `快速创建精美PPT的web框架,推荐在线编辑网站` https://slides.com
 * [adaptive.js](https://github.com/finance-sh/adaptive) `rem方式的h5自适应方案`
+* [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) `Navicat注册`
 ### 🎃 学习类
 ***
 ### 🍔 框架类
