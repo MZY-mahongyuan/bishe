@@ -6,6 +6,7 @@
 * [adaptive.js](https://github.com/finance-sh/adaptive) `rem方式的h5自适应方案`
 * [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) `Navicat注册`
 ### 🎃 学习类
+* [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) `MySQL 资源大全中文版`
 ***
 ### 🍔 框架类
 ***
