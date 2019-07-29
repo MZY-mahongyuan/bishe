@@ -9,6 +9,7 @@
 * [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) `MySQL 资源大全中文版`
 ***
 ### 🍔 框架类
+* [yapi](https://github.com/YMFE/yapi?utm_source=gold_browser_extension)`YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台` https://hellosean1025.github.io/yapi
 ***
 ### 😄 其他类
 ***
