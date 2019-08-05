@@ -11,6 +11,7 @@
 ***
 ### 🍔 框架类
 * [yapi](https://github.com/YMFE/yapi?utm_source=gold_browser_extension)`YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台` https://hellosean1025.github.io/yapi
+* [cube.js](https://github.com/cube-js/cube.js) `Cube.js 是一个用于构建分析 web 应用程序的开源框架`
 ***
 ### 😄 其他类
 ***
