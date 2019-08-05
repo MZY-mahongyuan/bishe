@@ -7,6 +7,7 @@
 * [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) `Navicat注册`
 ### 🎃 学习类
 * [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) `MySQL 资源大全中文版`
+* [learnVue](https://github.com/answershuto/learnVue) :octocat:`Vue.js 源码解析`
 ***
 ### 🍔 框架类
 * [yapi](https://github.com/YMFE/yapi?utm_source=gold_browser_extension)`YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台` https://hellosean1025.github.io/yapi
